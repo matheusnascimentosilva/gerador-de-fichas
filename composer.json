@@ -1,0 +1,17 @@
+{
+    "name": "matheus/rifas",
+    "autoload": {
+        "psr-4": {
+            "Matheus\\Rifas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matheus",
+            "email": "matheusnascimentosilva574@gmail.com"
+        }
+    ],
+    "require": {
+        "setasign/fpdf": "^1.8"
+    }
+}
